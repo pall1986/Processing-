@@ -10,6 +10,10 @@
  
  Hardware Necessario:
  
+ Potenziometro da 10K 
+ 
+ Arduino 1 rev3 
+ 
  
  
  
